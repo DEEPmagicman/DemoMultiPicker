@@ -1,0 +1,20 @@
+PODS:
+  - PryntTrimmerView (4.0.2)
+  - SteviaLayout (5.1.2)
+
+DEPENDENCIES:
+  - PryntTrimmerView (= 4.0.2)
+  - SteviaLayout
+
+SPEC REPOS:
+  trunk:
+    - PryntTrimmerView
+    - SteviaLayout
+
+SPEC CHECKSUMS:
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SteviaLayout: 05424e528d643657d39ce72c786e4adf13cfc5f2
+
+PODFILE CHECKSUM: 4720d1dfbf933304be2b30103481451963d2da90
+
+COCOAPODS: 1.11.3
